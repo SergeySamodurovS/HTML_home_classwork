@@ -1,0 +1,25 @@
+body {
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+.headers_footnote {
+    font-size: small;
+}
+
+.menu {
+    background: rgb(248, 249, 250);
+    border: 2px solid rgb(162, 169, 177);
+    width: 20vw;
+    padding: 7px; 
+}
+
+.header_contents {
+    text-align: center;
+}
+
+a:visited {
+    color: blue;
+}
